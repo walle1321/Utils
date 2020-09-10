@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <DocInfo>
+    <APP_CODE>KH</APP_CODE>
+    <APP_NAME>客户</APP_NAME>
+    <BUSI_NO>202004220000058949businum10</BUSI_NO>
+  </DocInfo>
+  <PAGES>
+    <PAGE PAGE_ID="889e8cf617554f529dc2a34f311d7db9" DOC_TYPE="KH_0101" DOC_NAME="身份证正面" PAGE_URL="1.jpg" PAGE_NAME="identityPictureName.jpg" UP_USER="SLL" UP_ORG="" UP_TIME="2020-09-04 14:09:54"/>
+<PAGE PAGE_ID="889e8cf617554f529dc2a34f311d7db9" DOC_TYPE="KH_0102" DOC_NAME="身份证正面" PAGE_URL="2.jpg" PAGE_NAME="identityPictureName.jpg" UP_USER="SLL" UP_ORG="" UP_TIME="2020-09-04 14:09:54"/>
+<PAGE PAGE_ID="889e8cf617554f529dc2a34f311d7db9" DOC_TYPE="KH_0103" DOC_NAME="身份证正面" PAGE_URL="3.jpg" PAGE_NAME="identityPictureName.jpg" UP_USER="SLL" UP_ORG="" UP_TIME="2020-09-04 14:09:54"/>
+  </PAGES>
+</root>
